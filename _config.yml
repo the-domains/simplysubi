@@ -1,0 +1,23 @@
+name: simplysubi
+favicon: null
+layout_spectrum: 0.776755633763969
+typography_spectrum: 0.5815729110036045
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.32099487935192883
+  lightness: 0.4142570300027728
+  saturation: 0.21004851907491684
+  rhythmicContrast: 0.7773015855345875
+purpose: []
